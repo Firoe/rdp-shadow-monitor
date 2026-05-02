@@ -99,11 +99,6 @@ Computer Configuration
 - Ensure access is limited to authorized administrators only.
 - **Do not commit real hostnames or IP addresses** into version control.
 
----
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
